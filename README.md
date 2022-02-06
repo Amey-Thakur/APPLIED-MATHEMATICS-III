@@ -2,7 +2,7 @@
  AM-III [SEMESTER III] 
  
  - [X] **[Syllabus](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**
- - [x] **DLDA - [Reference Books](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/tree/main/Reference%20Books)**
+ - [x] **AM-III - [Reference Books](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/tree/main/Reference%20Books)**
 
 ## My Preparation
  - [Sem-III Syallbus](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png)
