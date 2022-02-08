@@ -1,8 +1,12 @@
 # APPLIED-MATHEMATICS-III
  AM-III [SEMESTER III] 
+
+---
  
  - [X] **[Syllabus](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**
  - [x] **AM-III - [Reference Books](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/tree/main/Reference%20Books)**
+
+---
 
 ## My Preparation
  - [Sem-III Syallbus](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png)
@@ -13,4 +17,3 @@
 ## Question Papers
  - [Previous Question Papers](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/tree/main/Quesion%20Papers/Previous%20Quesion%20Papers)
  - [Solved Papers](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/tree/main/Quesion%20Papers/M3%20Solved%20Papers)
-
