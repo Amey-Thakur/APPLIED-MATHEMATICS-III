@@ -28,8 +28,8 @@
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 3rd Semester of Engineering @ University of Mumbai <b> </p>
+<p align="center"> <b> 👉🏻 Subject as a part of the 3rd Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'>Back To Engineering</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'>👍🏻Back To Engineering ✌🏻</p>
 
  
