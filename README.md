@@ -26,3 +26,10 @@
 
 - [Solved Papers](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/tree/main/Quesion%20Papers/M3%20Solved%20Papers)
 
+---
+
+<p align="center"> <b> 👉 Subject as a part of the 8th Semester of Engineering @ University of Mumbai Affiliated Institute Terna Engineering College <b> </p>
+ 
+ <p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'>Back to Engineering</p>
+  
+  
