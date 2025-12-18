@@ -79,12 +79,17 @@ University of Mumbai examination papers from **2017-2019** with complete solutio
 
 Study materials and planning resources for effective exam preparation:
 
-| Resource | Description |
-|----------|-------------|
-| 📝 [Syllabus Breakdown](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
-| 📊 [Module Planning](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
-| 🗓️ [Semester Timetable](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
-| 🎯 [Examination Blueprint](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Blueprint%20(AM-III).png) | Question paper pattern and marking scheme |
+> 📝 **[Syllabus Breakdown](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png)**  
+> Detailed module-wise syllabus notes
+
+> 📊 **[Module Planning](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_14_10_59_854.png)**  
+> Topic organization and study schedule
+
+> 🗓️ **[Semester Timetable](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png)**  
+> Class schedule and planning
+
+> 🎯 **[Examination Blueprint](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Blueprint%20(AM-III).png)**  
+> Question paper pattern and marking scheme
 
 ---
 
