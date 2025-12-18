@@ -12,7 +12,7 @@
 
 **A comprehensive academic resource for Applied Mathematics III, covering complex variables, transforms, and advanced mathematical methods essential for computer engineering applications.**
 
-[★ Overview](#overview) · [◆ Repository Contents](#repository-contents) · [📚 Reference Materials](#reference-books) · [📝 Question Papers](#question-papers) · [✍️ Personal Preparation](#personal-preparation) · [📋 Syllabus](#syllabus) · [📖 Usage Guidelines](#usage-guidelines) · [■ License](#license)
+[★ Overview](#overview) · [◆ Repository Contents](#repository-contents) · [● Reference Materials](#reference-books) · [■ Question Papers](#question-papers) · [▲ Personal Preparation](#personal-preparation) · [▼ Syllabus](#syllabus) · [◉ Usage Guidelines](#usage-guidelines) · [□ License](#license)
 
 </div>
 
