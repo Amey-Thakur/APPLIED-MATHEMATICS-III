@@ -4,17 +4,17 @@
 
 # Applied Mathematics III
 
-**CSC301 · Semester III · Computer Engineering**
+### CSC301 · Semester III · Computer Engineering
 
-*A comprehensive academic resource for Applied Mathematics III, covering complex variables, transforms, and advanced mathematical methods essential for computer engineering applications.*
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+[![University](https://img.shields.io/badge/University-Mumbai-orange.svg)](https://mu.ac.in/)
+[![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-green.svg)](https://ternaengg.ac.in/)
+
+**A comprehensive academic resource for Applied Mathematics III, covering complex variables, transforms, and advanced mathematical methods essential for computer engineering applications.**
+
+[★ Overview](#overview) · [◆ Repository Contents](#repository-contents) · [● Question Papers](#question-papers) · [■ License](#license)
 
 </div>
-
----
-
-## 📑 Navigation
-
-**[Overview](#overview)** · **[Repository Contents](#repository-contents)** · **[Reference Materials](#reference-books)** · **[Question Papers](#question-papers)** · **[Personal Preparation](#personal-preparation)** · **[Syllabus](#syllabus)** · **[Usage Guidelines](#usage-guidelines)** · **[License](#license)**
 
 ---
 
