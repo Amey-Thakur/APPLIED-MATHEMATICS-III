@@ -12,7 +12,7 @@
 
 **A comprehensive academic resource for Applied Mathematics III, covering complex variables, transforms, and advanced mathematical methods essential for computer engineering applications.**
 
-[📖 Overview](#overview) · [📂 Contents](#repository-contents) · [📚 Reference Books](#reference-books) · [📝 Question Papers](#question-papers) · [✍🏻 Personal Preparation](#personal-preparation) · [📋 Syllabus](#syllabus) · [📘 Usage Guidelines](#usage-guidelines) · [⚖️ License](#license)
+[📖 Overview](#overview) · [📂 Contents](#repository-contents) · [📚 Reference Books](#reference-books) · [📝 Question Papers](#question-papers) · [✏️ Personal Preparation](#personal-preparation) · [📋 Syllabus](#syllabus) · [📘 Usage Guidelines](#usage-guidelines) · [📜 License](#license)
 
 </div>
 
@@ -83,7 +83,7 @@ Study materials and planning resources for effective exam preparation:
 |----------|-------------|
 | 📝 [Syllabus Breakdown](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
 | 📊 [Module Planning](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
-| 🗓️ [Semester Timetable](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
+| � [Semester Timetable](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
 | 🎯 [Examination Blueprint](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Blueprint%20(AM-III).png) | Question paper pattern and marking scheme |
 
 ---
@@ -135,7 +135,7 @@ Special thanks to the faculty members, mentors, and peers who contributed to thi
 
 ### Quick Navigation
 
-**[⬆ Back to Top](#applied-mathematics-iii)** · **[� Overview](#overview)** · **[📚 Reference Books](#reference-books)** · **[📝 Question Papers](#question-papers)** · **[✍🏻 Personal Preparation](#personal-preparation)** · **[📋 Syllabus](#syllabus)**
+**[⬆ Back to Top](#applied-mathematics-iii)** · **[📖 Overview](#overview)** · **[📚 Reference Books](#reference-books)** · **[📝 Question Papers](#question-papers)** · **[✏️ Personal Preparation](#personal-preparation)** · **[📋 Syllabus](#syllabus)**
 
 </div>
 
