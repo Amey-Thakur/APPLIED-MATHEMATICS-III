@@ -52,7 +52,6 @@ All materials in this repository were gathered, organized, and documented by me 
 
 ---
 
-
 ## Repository Contents
 
 ### Reference Books
