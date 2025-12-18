@@ -133,7 +133,9 @@ Special thanks to the faculty members, mentors, and peers who contributed to thi
 
 <div align="center">
 
-**[⬆ Back to Top](#applied-mathematics-iii)** · **[📂 Repository Contents](#repository-contents)** · **[📚 Reference Books](#reference-books)** · **[📝 Question Papers](#question-papers)**
+### Quick Navigation
+
+**[⬆ Back to Top](#applied-mathematics-iii)** · **[� Overview](#overview)** · **[📚 Reference Books](#reference-books)** · **[📝 Question Papers](#question-papers)** · **[✍🏻 Personal Preparation](#personal-preparation)** · **[📋 Syllabus](#syllabus)**
 
 </div>
 
