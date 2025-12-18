@@ -35,9 +35,20 @@ The curriculum encompasses several key mathematical domains:
 - **Z-Transforms**: Discrete-time signal analysis and digital system design
 - **Statistical Methods**: Probability distributions, sampling theory, and hypothesis testing
 
-### Learning Objectives
+### Repository Purpose
 
-This repository serves as a comprehensive study resource, providing access to reference materials, previous examination papers with solutions, and curated study notes to support mastery of these mathematical concepts and their applications in computer engineering.
+This repository represents a curated collection of study materials, reference books, question papers, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
+
+As I progress in my career, I recognize that mathematical foundations remain essential for solving complex engineering problems. This repository serves as my intellectual reference point—a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
+
+**Why this repository exists:**
+
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental mathematical concepts
+- **Academic Documentation**: To authentically document my learning journey through Applied Mathematics III
+- **Community Contribution**: To share these resources with students and learners who may benefit from them
+
+All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
 
 ---
 
