@@ -146,7 +146,11 @@ This repository represents a comprehensive collection of study materials, refere
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
-Special thanks to the faculty members, mentors, and peers who contributed to this learning experience.
+### Acknowledgments
+
+Special gratitude to [Dr. Subir Rao](https://www.linkedin.com/in/dr-subir-r-7ba04610/), whose exceptional teaching of Applied Mathematics profoundly shaped my understanding and appreciation of the subject. His clear explanations, methodical approach, and ability to make complex mathematical concepts accessible ignited a genuine curiosity for problem-solving that remains with me today. The principles and techniques he taught continue to guide my analytical thinking, and his dedication to student learning exemplifies the transformative power of great teaching.
+
+I am also grateful to the faculty members, mentors, and peers who contributed to this learning experience.
 
 ---
 
