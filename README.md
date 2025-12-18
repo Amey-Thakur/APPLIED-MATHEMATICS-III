@@ -131,10 +131,18 @@ Grateful acknowledgment to the faculty members, mentors, and peers whose guidanc
 
 <div align="center">
 
-### 🎓 [Applied Mathematics III Repository](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III)
+**[⬆ Back to Top](#applied-mathematics-iii)** · **[📂 Repository Contents](#repository-contents)** · **[📚 Reference Books](#reference-books)** · **[📝 Question Papers](#question-papers)**
 
-**Applied Mathematics III (CSC301) - University of Mumbai**
+</div>
 
-*Complex variables, transforms, and advanced mathematical methods for computer engineering.*
+---
+
+<div align="center">
+
+### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+**Computer Engineering (B.E.) - University of Mumbai**
+
+*Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
