@@ -9,8 +9,11 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![University](https://img.shields.io/badge/University-Mumbai-orange.svg)](https://mu.ac.in/)
 [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-green.svg)](https://ternaengg.ac.in/)
+[![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
 **A comprehensive academic resource for Applied Mathematics III, covering complex variables, transforms, and advanced mathematical methods essential for computer engineering applications.**
+
+**📊 Repository Highlights:** 13 Reference Books · 4 Question Papers with Solutions · 4 Personal Study Resources · Official Syllabus
 
 [📖 Overview](#overview) · [📂 Contents](#repository-contents) · [📚 Reference Books](#reference-books) · [📝 Question Papers](#question-papers) · [✏️ Personal Preparation](#personal-preparation) · [📋 Syllabus](#syllabus) · [📘 Usage Guidelines](#usage-guidelines) · [📜 License](#license)
 
@@ -35,6 +38,21 @@ The curriculum encompasses several key mathematical domains:
 ### Learning Objectives
 
 This repository serves as a comprehensive study resource, providing access to reference materials, previous examination papers with solutions, and curated study notes to support mastery of these mathematical concepts and their applications in computer engineering.
+
+---
+
+## How to Use This Repository
+
+This repository is organized to facilitate efficient study and exam preparation:
+
+1. **Start with the Overview** to understand course scope and topics
+2. **Browse Reference Books** for comprehensive topic coverage and theory
+3. **Practice with Question Papers** to familiarize yourself with exam patterns
+4. **Review Solutions** to understand problem-solving approaches
+5. **Use Personal Preparation materials** for study planning and organization
+6. **Consult the Syllabus** for official course requirements and outcomes
+
+All materials are directly accessible through clickable links in each section.
 
 ---
 
@@ -83,7 +101,7 @@ Study materials and planning resources for effective exam preparation:
 |----------|-------------|
 | 📝 [Syllabus Breakdown](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
 | 📊 [Module Planning](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
-| � [Semester Timetable](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
+| 📅 [Semester Timetable](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
 | 🎯 [Examination Blueprint](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Blueprint%20(AM-III).png) | Question paper pattern and marking scheme |
 
 ---
@@ -100,13 +118,13 @@ Study materials and planning resources for effective exam preparation:
 This repository is openly shared to support learning and knowledge exchange across the academic community.
 
 **For Students**  
-Use these repositories as reference materials for understanding concepts, reviewing implementations, and exploring project ideas. Each repository contains detailed documentation to facilitate self-paced learning.
+Use these resources as reference materials for understanding concepts, reviewing problem-solving techniques, and preparing for examinations. All content is organized for self-paced learning.
 
 **For Educators**  
-These resources may serve as curriculum references, assignment examples, or supplementary teaching materials. Attribution is appreciated when utilizing content.
+These materials may serve as curriculum references, assignment examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
 
 **For Researchers**  
-The project implementations and documentation may provide insights into practical applications of computer science principles in educational contexts.
+The documentation and organization may provide insights into academic resource curation and educational content structuring.
 
 ---
 
@@ -120,12 +138,14 @@ This repository and all linked academic content are made available under the **C
 
 ## About This Repository
 
-**Created & Maintained by**: Amey Thakur  
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
 **Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
 This repository represents a comprehensive collection of study materials, reference books, question papers, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Applied Mathematics III.
+
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
 Special thanks to the faculty members, mentors, and peers who contributed to this learning experience.
 
@@ -143,10 +163,14 @@ Special thanks to the faculty members, mentors, and peers who contributed to thi
 
 <div align="center">
 
-### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+### 🎓 Explore More Academic Resources
 
-**Computer Engineering (B.E.) - University of Mumbai**
+**[Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)**
 
-*Semester-wise curriculum, laboratories, projects, and academic notes.*
+*Complete B.E. program with semester-wise curriculum, laboratories, projects, and academic notes*
+
+---
+
+**Found this helpful? Consider starring ⭐ this repository**
 
 </div>
