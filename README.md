@@ -145,9 +145,9 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-I am sincerely grateful to [Dr. Subir Rao](https://www.linkedin.com/in/dr-subir-r-7ba04610/) for his exceptional teaching in Applied Mathematics, which played a significant role in shaping my understanding of the subject. His clear, disciplined approach and careful treatment of complex ideas made the subject both accessible and intellectually engaging. The habits of reasoning and problem-solving he emphasized continue to guide my analytical thinking, and his commitment to teaching has left a lasting impression on my academic growth.
+Grateful acknowledgment is extended to [Dr. Subir Rao](https://www.linkedin.com/in/dr-subir-r-7ba04610/) for his exceptional teaching in Applied Mathematics, which played a significant role in shaping my understanding of the subject. His clear and disciplined approach, along with his careful treatment of complex ideas, made the subject both accessible and intellectually engaging. The habits of reasoning and problem-solving he emphasized continue to guide my analytical thinking, and his commitment to teaching has left a lasting impression on my academic development.
 
-I am also grateful to the faculty members, mentors, and peers who contributed to this learning experience.
+Special thanks are also extended to the faculty members, mentors, and peers whose guidance, support, and discussions contributed meaningfully to this learning experience.
 
 ---
 
