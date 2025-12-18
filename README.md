@@ -118,14 +118,16 @@ This repository and all linked academic content are made available under the **C
 
 ---
 
-## Acknowledgments
+## About This Repository
 
+**Created & Maintained by**: Amey Thakur  
+**Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
-**University**: [University of Mumbai](https://mu.ac.in/)  
-**Program**: Bachelor of Engineering in Computer Engineering  
-**Duration**: 2018 - 2022
+**University**: [University of Mumbai](https://mu.ac.in/)
 
-Grateful acknowledgment to the faculty members, mentors, and peers whose guidance, collaboration, and support were instrumental throughout this academic journey. Their contributions to my learning experience are deeply appreciated.
+This repository represents a comprehensive collection of study materials, reference books, question papers, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Applied Mathematics III.
+
+Special thanks to the faculty members, mentors, and peers who contributed to this learning experience.
 
 ---
 
