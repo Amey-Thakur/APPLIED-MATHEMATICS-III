@@ -44,17 +44,21 @@ This repository serves as a comprehensive study resource, providing access to re
 
 This collection includes **13 comprehensive reference materials** covering all major topics:
 
-| Resource | Focus Area |
-|----------|------------|
-| Applied Mathematics III - GV Kumbhojkar | Complete syllabus coverage |
-| Complex Variables (Full & Mini) | Analytic functions, contour integration |
-| Fourier Transform Notes (Parts 1 & 2) | Signal analysis and frequency domain |
-| Laplace Transform | Differential equations and system analysis |
-| Z-Transform | Discrete-time systems |
-| Maths 3 - Dr. Subir Rao (Kalpana Coaching) | Comprehensive lecture notes |
-| AM-III Easy Solutions | Solved problems and examples |
-| Formula Sheet | Quick reference for examinations |
-| Practice Question Banks (Parts 1 & 2) | Additional problem sets |
+| # | Resource | Focus Area |
+|---|----------|------------|
+| 1 | Applied Mathematics III - GV Kumbhojkar | Complete syllabus coverage |
+| 2 | Complex Variables | Analytic functions, contour integration |
+| 3 | Complex Variables MINI | Concise analytic functions guide |
+| 4 | Fourier Transform Notes - Part 1 | Signal analysis and frequency domain |
+| 5 | Fourier Transform Notes - Part 2 | Advanced frequency domain analysis |
+| 6 | Laplace Transform | Differential equations and system analysis |
+| 7 | Z-Transform | Discrete-time systems |
+| 8 | Maths 3 - Huge Notes | Comprehensive topic coverage |
+| 9 | Maths-III Dr. Subir Rao (Kalpana Coaching Classes) | Complete lecture notes |
+| 10 | AM-III Easy Solutions | Solved problems and examples |
+| 11 | Applied Mathematics - III Formula Sheet | Quick reference for examinations |
+| 12 | M3 Only Question - Part 1 | Additional problem sets |
+| 13 | M3 Only Question - Part 2 | Additional problem sets |
 
 **Access**: [Reference Books Directory](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/tree/main/Reference%20Books)
 
