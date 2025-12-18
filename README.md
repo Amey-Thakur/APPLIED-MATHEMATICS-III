@@ -145,7 +145,7 @@ This repository and all linked academic content are made available under the **C
 
 This repository represents a comprehensive collection of study materials, reference books, question papers, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Applied Mathematics III.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
 Special thanks to the faculty members, mentors, and peers who contributed to this learning experience.
 
@@ -163,14 +163,10 @@ Special thanks to the faculty members, mentors, and peers who contributed to thi
 
 <div align="center">
 
-### 🎓 Explore More Academic Resources
+### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
-**[Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)**
+**Computer Engineering (B.E.) - University of Mumbai**
 
-*Complete B.E. program with semester-wise curriculum, laboratories, projects, and academic notes*
-
----
-
-**Found this helpful? Consider starring ⭐ this repository**
+*Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
