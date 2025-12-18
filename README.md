@@ -42,9 +42,23 @@ This repository serves as a comprehensive study resource, providing access to re
 
 ### Reference Books
 
-A curated collection of **13 comprehensive reference materials** covering Complex Variables, Laplace/Fourier/Z-Transforms, Statistical Methods, solved problems, formula sheets, and practice question banks.
+This collection includes **13 comprehensive reference materials** covering all major topics:
 
-**📚 [Browse All Reference Books](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/tree/main/Reference%20Books)**
+| # | Resource | Focus Area |
+|---|----------|------------|
+| 1 | [Applied Mathematics III - GV Kumbhojkar](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Applied%20Mathematics%20III%20-%20GV%20Kumbhojkar.pdf) | Complete syllabus coverage |
+| 2 | [Complex Variables](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Complex%20Variables.pdf) | Analytic functions, contour integration |
+| 3 | [Complex Variables MINI](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/COMPLEX%20VARIABLES%20MINI.pdf) | Concise analytic functions guide |
+| 4 | [Fourier Transform Notes - Part 1](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Fourier%20Transform%20Notes%20-%201.pdf) | Signal analysis and frequency domain |
+| 5 | [Fourier Transform Notes - Part 2](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Fourier%20Transform%20Notes%20-%202.pdf) | Advanced frequency domain analysis |
+| 6 | [Laplace Transform](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Laplace%20Transform.pdf) | Differential equations and system analysis |
+| 7 | [Z-Transform](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Z-Transform.pdf) | Discrete-time systems |
+| 8 | [Maths 3 - Huge Notes](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Maths%203%20-%20Huge%20Notes.pdf) | Comprehensive topic coverage |
+| 9 | [Maths-III Dr. Subir Rao (Kalpana Coaching Classes)](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Maths-III%20Dr.%20Subir%20Rao%20-%20Kalpana%20Coaching%20Classes.pdf) | Complete lecture notes |
+| 10 | [AM-III Easy Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/AM-III%20Easy%20Solutions.pdf) | Solved problems and examples |
+| 11 | [Applied Mathematics - III Formula Sheet](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Applied%20Mathematics%20-%20III%20Formula%20Sheet.pdf) | Quick reference for examinations |
+| 12 | [M3 Only Question - Part 1](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/M3%20Only%20question%20-%201.pdf) | Additional problem sets |
+| 13 | [M3 Only Question - Part 2](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/M3%20Only%20question%20-%202.pdf) | Additional problem sets |
 
 ---
 
