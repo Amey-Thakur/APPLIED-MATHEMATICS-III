@@ -41,20 +41,6 @@ This repository serves as a comprehensive study resource, providing access to re
 
 ---
 
-## How to Use This Repository
-
-This repository is organized to facilitate efficient study and exam preparation:
-
-1. **Start with the Overview** to understand course scope and topics
-2. **Browse Reference Books** for comprehensive topic coverage and theory
-3. **Practice with Question Papers** to familiarize yourself with exam patterns
-4. **Review Solutions** to understand problem-solving approaches
-5. **Use Personal Preparation materials** for study planning and organization
-6. **Consult the Syllabus** for official course requirements and outcomes
-
-All materials are directly accessible through clickable links in each section.
-
----
 
 ## Repository Contents
 
