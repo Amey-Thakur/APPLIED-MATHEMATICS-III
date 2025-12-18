@@ -39,7 +39,7 @@ The curriculum encompasses several key mathematical domains:
 
 This repository represents a curated collection of study materials, reference books, question papers, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
 
-As I progress in my career, I recognize that mathematical foundations remain essential for solving complex engineering problems. This repository serves as my intellectual reference point—a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
+As I progress in my career, I recognize that mathematical foundations remain essential for solving complex engineering problems. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
 
 **Why this repository exists:**
 
