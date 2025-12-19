@@ -16,7 +16,7 @@
 
   ---
 
-  [📖 Overview](#overview) · [📂 Contents](#repository-contents) · [📚 Reference Books](#reference-books) · [📝 Question Papers](#question-papers) · [✏️ Personal Preparation](#personal-preparation) · [📋 Syllabus](#syllabus) · [📘 Usage Guidelines](#usage-guidelines) · [📜 License](#license)
+  [📖 Overview](#overview) · [📂 Contents](#repository-contents) · [📚 Reference Books](#reference-books) · [📝 Question Papers](#question-papers) · [✏️ Personal Preparation](#personal-preparation) · [📋 Syllabus](#syllabus) · [📘 Usage Guidelines](#usage-guidelines) · [📜 License](#license) · [ℹ️ About](#about-this-repository) · [🙏 Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -161,9 +161,9 @@ Special thanks to the faculty members, mentors, and peers whose guidance, suppor
 <!-- FOOTER -->
 <div align="center">
 
-  ### Quick Navigation
+  **[⬆ Back to Top](#applied-mathematics-iii)** · **[📖 Overview](#overview)** · **[📂 Contents](#repository-contents)** · **[📚 Reference Books](#reference-books)** · **[📝 Question Papers](#question-papers)** · **[✏️ Personal Preparation](#personal-preparation)** · **[📋 Syllabus](#syllabus)** · **[📘 Usage Guidelines](#usage-guidelines)** · **[📜 License](#license)** · **[ℹ️ About](#about-this-repository)** · **[🙏 Acknowledgments](#acknowledgments)**
 
-  **[⬆ Back to Top](#applied-mathematics-iii)** · **[📖 Overview](#overview)** · **[📚 Reference Books](#reference-books)** · **[📝 Question Papers](#question-papers)** · **[✏️ Personal Preparation](#personal-preparation)** · **[📋 Syllabus](#syllabus)**
+
 
 </div>
 
