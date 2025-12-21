@@ -111,6 +111,9 @@ Study materials and planning resources for effective exam preparation:
 > 📋 **[Official CBCGS Syllabus](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**  
 > Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications.
 
+> [!IMPORTANT]
+> Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
+
 ---
 
 <!-- USAGE -->
