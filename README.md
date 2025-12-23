@@ -95,12 +95,12 @@ This collection includes **13 comprehensive reference materials** covering all m
 
 University of Mumbai examination papers from **2017-2019** with complete solutions:
 
-| Exam Session | Question Paper | Solutions |
-|:---|:---|:---|
-| December 2017 | [Paper](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC17.pdf) | [Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC17_SOLUTION.pdf) |
-| May 2018 | [Paper](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY18.pdf) | [Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY18_SOLUTION.pdf) |
-| December 2018 | [Paper](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC18.pdf) | [Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC18_SOLUTION.pdf) |
-| May 2019 | [Paper](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY19.pdf) | [Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY19_SOLUTION.pdf) |
+| # | Exam Session | Question Paper | Solutions |
+|:-:|:---|:---|:---|
+| 1 | December 2017 | [Paper](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC17.pdf) | [Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC17_SOLUTION.pdf) |
+| 2 | May 2018 | [Paper](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY18.pdf) | [Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY18_SOLUTION.pdf) |
+| 3 | December 2018 | [Paper](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC18.pdf) | [Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC18_SOLUTION.pdf) |
+| 4 | May 2019 | [Paper](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY19.pdf) | [Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY19_SOLUTION.pdf) |
 
 ---
 
