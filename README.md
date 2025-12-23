@@ -74,7 +74,7 @@ All materials in this repository were gathered, organized, and documented by me 
 This collection includes **13 comprehensive reference materials** covering all major topics:
 
 | # | Resource | Focus Area |
-|:-:|:---|:---|
+|:-:|:-:|:-:|
 | 1 | [Applied Mathematics III - GV Kumbhojkar](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Applied%20Mathematics%20III%20-%20GV%20Kumbhojkar.pdf) | Complete syllabus coverage |
 | 2 | [Complex Variables](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Complex%20Variables.pdf) | Analytic functions, contour integration |
 | 3 | [Complex Variables MINI](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/COMPLEX%20VARIABLES%20MINI.pdf) | Concise analytic functions guide |
@@ -96,7 +96,7 @@ This collection includes **13 comprehensive reference materials** covering all m
 University of Mumbai examination papers from **2017-2019** with complete solutions:
 
 | # | Exam Session | Question Paper | Solutions |
-|:-:|:---|:---|:---|
+|:-:|:-:|:-:|:-:|
 | 1 | December 2017 | [Paper](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC17.pdf) | [Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC17_SOLUTION.pdf) |
 | 2 | May 2018 | [Paper](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY18.pdf) | [Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY18_SOLUTION.pdf) |
 | 3 | December 2018 | [Paper](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC18.pdf) | [Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC18_SOLUTION.pdf) |
@@ -109,7 +109,7 @@ University of Mumbai examination papers from **2017-2019** with complete solutio
 Study materials and planning resources for effective exam preparation:
 
 | # | Resource | Description |
-|:-:|:---|:---|
+|:-:|:-:|:-:|
 | 1 | [Syllabus Breakdown](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
 | 2 | [Module Planning](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
 | 3 | [Semester Timetable](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
