@@ -14,7 +14,7 @@
 
   <!-- Badges -->
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
   [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
@@ -75,19 +75,19 @@ This collection includes **13 comprehensive reference materials** covering all m
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
-| 1 | [Applied Mathematics III - GV Kumbhojkar](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Applied%20Mathematics%20III%20-%20GV%20Kumbhojkar.pdf) | Complete syllabus coverage |
-| 2 | [Complex Variables](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Complex%20Variables.pdf) | Analytic functions, contour integration |
-| 3 | [Complex Variables MINI](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/COMPLEX%20VARIABLES%20MINI.pdf) | Concise analytic functions guide |
-| 4 | [Fourier Transform Notes - Part 1](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Fourier%20Transform%20Notes%20-%201.pdf) | Signal analysis and frequency domain |
-| 5 | [Fourier Transform Notes - Part 2](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Fourier%20Transform%20Notes%20-%202.pdf) | Advanced frequency domain analysis |
-| 6 | [Laplace Transform](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Laplace%20Transform.pdf) | Differential equations and system analysis |
-| 7 | [Z-Transform](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Z-Transform.pdf) | Discrete-time systems |
-| 8 | [Maths 3 - Huge Notes](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Maths%203%20-%20Huge%20Notes.pdf) | Comprehensive topic coverage |
-| 9 | [Maths-III Dr. Subir Rao (Kalpana Coaching Classes)](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Maths-III%20Dr.%20Subir%20Rao%20-%20Kalpana%20Coaching%20Classes.pdf) | Complete lecture notes |
-| 10 | [AM-III Easy Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/AM-III%20Easy%20Solutions.pdf) | Solved problems and examples |
-| 11 | [Applied Mathematics - III Formula Sheet](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/Applied%20Mathematics%20-%20III%20Formula%20Sheet.pdf) | Quick reference for examinations |
-| 12 | [M3 Only Question - Part 1](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/M3%20Only%20question%20-%201.pdf) | Additional problem sets |
-| 13 | [M3 Only Question - Part 2](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Reference%20Books/M3%20Only%20question%20-%202.pdf) | Additional problem sets |
+| 1 | [Applied Mathematics III - GV Kumbhojkar](Reference%20Books/Applied%20Mathematics%20III%20-%20GV%20Kumbhojkar.pdf) | Complete syllabus coverage |
+| 2 | [Complex Variables](Reference%20Books/Complex%20Variables.pdf) | Analytic functions, contour integration |
+| 3 | [Complex Variables MINI](Reference%20Books/COMPLEX%20VARIABLES%20MINI.pdf) | Concise analytic functions guide |
+| 4 | [Fourier Transform Notes - Part 1](Reference%20Books/Fourier%20Transform%20Notes%20-%201.pdf) | Signal analysis and frequency domain |
+| 5 | [Fourier Transform Notes - Part 2](Reference%20Books/Fourier%20Transform%20Notes%20-%202.pdf) | Advanced frequency domain analysis |
+| 6 | [Laplace Transform](Reference%20Books/Laplace%20Transform.pdf) | Differential equations and system analysis |
+| 7 | [Z-Transform](Reference%20Books/Z-Transform.pdf) | Discrete-time systems |
+| 8 | [Maths 3 - Huge Notes](Reference%20Books/Maths%203%20-%20Huge%20Notes.pdf) | Comprehensive topic coverage |
+| 9 | [Maths-III Dr. Subir Rao (Kalpana Coaching Classes)](Reference%20Books/Maths-III%20Dr.%20Subir%20Rao%20-%20Kalpana%20Coaching%20Classes.pdf) | Complete lecture notes |
+| 10 | [AM-III Easy Solutions](Reference%20Books/AM-III%20Easy%20Solutions.pdf) | Solved problems and examples |
+| 11 | [Applied Mathematics - III Formula Sheet](Reference%20Books/Applied%20Mathematics%20-%20III%20Formula%20Sheet.pdf) | Quick reference for examinations |
+| 12 | [M3 Only Question - Part 1](Reference%20Books/M3%20Only%20question%20-%201.pdf) | Additional problem sets |
+| 13 | [M3 Only Question - Part 2](Reference%20Books/M3%20Only%20question%20-%202.pdf) | Additional problem sets |
 
 ---
 
@@ -97,10 +97,10 @@ University of Mumbai examination papers from **2017-2019** with complete solutio
 
 | # | Exam Session | Question Paper | Solutions |
 |:-:|:---|:---|:---|
-| 1 | December 2017 | [Paper](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC17.pdf) | [Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC17_SOLUTION.pdf) |
-| 2 | May 2018 | [Paper](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY18.pdf) | [Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY18_SOLUTION.pdf) |
-| 3 | December 2018 | [Paper](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC18.pdf) | [Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC18_SOLUTION.pdf) |
-| 4 | May 2019 | [Paper](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY19.pdf) | [Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY19_SOLUTION.pdf) |
+| 1 | December 2017 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC17.pdf) | [Solutions](Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC17_SOLUTION.pdf) |
+| 2 | May 2018 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY18.pdf) | [Solutions](Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY18_SOLUTION.pdf) |
+| 3 | December 2018 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC18.pdf) | [Solutions](Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC18_SOLUTION.pdf) |
+| 4 | May 2019 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY19.pdf) | [Solutions](Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY19_SOLUTION.pdf) |
 
 ---
 
@@ -110,10 +110,10 @@ Study materials and planning resources for effective exam preparation:
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [Syllabus Breakdown](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
-| 2 | [Module Planning](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
-| 3 | [Semester Timetable](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
-| 4 | [Examination Blueprint](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/Blueprint%20(AM-III).png) | Question paper pattern and marking scheme |
+| 1 | [Syllabus Breakdown](My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
+| 2 | [Module Planning](My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
+| 3 | [Semester Timetable](My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
+| 4 | [Examination Blueprint](Blueprint%20(AM-III).png) | Question paper pattern and marking scheme |
 
 ---
 
@@ -122,7 +122,7 @@ Study materials and planning resources for effective exam preparation:
      ========================================================================================= -->
 ## Syllabus
 
-> **[Official CBCGS Syllabus](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**  
+> **[Official CBCGS Syllabus](SE-Comps_CBCGS_Syllabus.pdf)**  
 > Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications.
 
 > [!IMPORTANT]
@@ -191,6 +191,10 @@ Special thanks to the faculty members, mentors, and peers whose guidance, suppor
   **[↑ Back to Top](#applied-mathematics-iii)**
 
   **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+
+  <br>
+
+  **[Applied Mathematics IV](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV)**
 
 </div>
 
