@@ -24,7 +24,7 @@
   ---
 
   <!-- Navigation Links -->
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -71,7 +71,7 @@ All materials in this repository were gathered, organized, and documented by me 
 
 ### Reference Books
 
-This collection includes **13 comprehensive reference materials** covering all major topics:
+This collection includes **comprehensive reference materials** covering all major topics:
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
@@ -91,19 +91,6 @@ This collection includes **13 comprehensive reference materials** covering all m
 
 ---
 
-### Question Papers
-
-University of Mumbai examination papers from **2017-2019** with complete solutions:
-
-| # | Exam Session | Question Paper | Solutions |
-|:-:|:---|:---|:---|
-| 1 | December 2017 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC17.pdf) | [Solutions](Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC17_SOLUTION.pdf) |
-| 2 | May 2018 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY18.pdf) | [Solutions](Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY18_SOLUTION.pdf) |
-| 3 | December 2018 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC18.pdf) | [Solutions](Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC18_SOLUTION.pdf) |
-| 4 | May 2019 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY19.pdf) | [Solutions](Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY19_SOLUTION.pdf) |
-
----
-
 ### Personal Preparation
 
 Study materials and planning resources for effective exam preparation:
@@ -117,13 +104,26 @@ Study materials and planning resources for effective exam preparation:
 
 ---
 
+## Question Papers
+
+University of Mumbai examination papers from **2017-2019** with complete solutions:
+
+| # | Exam Session | Question Paper | Solutions |
+|:-:|:---|:-:|:-:|
+| 1 | December 2017 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC17.pdf) | [Solutions](Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC17_SOLUTION.pdf) |
+| 2 | May 2018 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY18.pdf) | [Solutions](Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY18_SOLUTION.pdf) |
+| 3 | December 2018 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC18.pdf) | [Solutions](Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_DEC18_SOLUTION.pdf) |
+| 4 | May 2019 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY19.pdf) | [Solutions](Question%20Papers/M3%20Solved%20Papers/SE-Comps_SEM3_M3-CBCGS_MAY19_SOLUTION.pdf) |
+
+---
+
 <!-- =========================================================================================
                                      SYLLABUS SECTION
      ========================================================================================= -->
 ## Syllabus
 
 > **[Official CBCGS Syllabus](SE-Comps_CBCGS_Syllabus.pdf)**  
-> Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications.
+> Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Applied Mathematics III.
 
 > [!IMPORTANT]
 > Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
@@ -178,7 +178,9 @@ This repository represents a comprehensive collection of study materials, refere
 
 Grateful acknowledgment to **[Dr. Subir Rao](https://www.linkedin.com/in/dr-subir-r-7ba04610/)** for his exceptional teaching in Applied Mathematics, which played an important role in shaping my understanding of the subject. His clear and disciplined approach, along with his careful explanation of complex ideas, made the subject both accessible and engaging. The emphasis he placed on logical reasoning and problem-solving continues to influence my analytical thinking, and his dedication to teaching has had a lasting impact on my academic growth.
 
-Special thanks to the faculty members, mentors, and peers whose guidance, support, and discussions contributed positively to this learning experience.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Applied Mathematics III. Their clear teaching and continued support helped me develop a strong understanding of foundational mathematical concepts and advanced analytical methods.
+
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
@@ -190,7 +192,7 @@ Special thanks to the faculty members, mentors, and peers whose guidance, suppor
   <!-- Footer Navigation -->
   [↑ Back to Top](#applied-mathematics-iii)
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
