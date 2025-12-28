@@ -1,0 +1,30 @@
+# General
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Python (if applicable for scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# MATLAB (if applicable for scripts)
+*.asv
+
+# LaTeX (if applicable for docs)
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
