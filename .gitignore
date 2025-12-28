@@ -1,3 +1,5 @@
+# ALL REPOSITORIES
+# ----------------
 # General
 .DS_Store
 Thumbs.db
@@ -12,19 +14,46 @@ $RECYCLE.BIN/
 .vscode/
 *.code-workspace
 
-# Python (if applicable for scripts)
+# JetBrains
+.idea/
+*.iml
+
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
 venv/
 env/
+.env
+*.egg-info/
+build/
+dist/
 
-# MATLAB (if applicable for scripts)
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# MATLAB
 *.asv
+*.mex*
+*.slxc
 
-# LaTeX (if applicable for docs)
+# LaTeX
 *.aux
 *.fdb_latexmk
 *.fls
 *.synctex.gz
 *.toc
+*.out
+*.log
+# Keeping .pdf as they are often deliverables in this context,
+# unless they are purely build artifacts which should be ignored.
+# For course repos, PDFs are usually key resources.
+
+# Node/JS (if applicable)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Git
+*.orig
