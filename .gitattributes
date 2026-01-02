@@ -1,50 +1,27 @@
-# Auto detect text files and perform LF normalization
-* text=auto eol=lf
+# Applied Mathematics III - Academic Repository
+# Professional .gitattributes for scholarly archiving
 
-# Custom for Visual Studio
-*.cs     diff=csharp
-*.sln    merge=union
-*.csproj merge=union
-*.vbproj merge=union
-*.fsproj merge=union
-*.dbproj merge=union
+# Set default behavior to automatically normalize line endings
+* text=auto
 
-# Standard to msysgit
-*.doc	 diff=astextplain
-*.DOC	 diff=astextplain
-*.docx diff=astextplain
-*.DOCX diff=astextplain
-*.dot  diff=astextplain
-*.DOT  diff=astextplain
-*.pdf  diff=astextplain
-*.PDF	 diff=astextplain
-*.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
+# Ensure text files use LF on checkout
+*.md text eol=lf
+*.txt text eol=lf
+*.cff text eol=lf
+LICENSE text eol=lf
 
-# Binary files
+# Explicitly mark binary files to prevent corruption and optimize diffs
 *.png binary
 *.jpg binary
 *.jpeg binary
 *.gif binary
+*.pdf binary
 *.ico binary
-*.mov binary
-*.mp4 binary
-*.mp3 binary
-*.flv binary
-*.fla binary
-*.swf binary
-*.gz binary
-*.zip binary
-*.7z binary
-*.rar binary
-*.tar binary
-*.iso binary
 
-# Python
-*.pyc binary
-*.pyd binary
-
-# MATLAB
-*.mex* binary
+# MATLAB and specialized formats
 *.slx binary
 *.mat binary
+*.mex* binary
+
+# Improve diff handling for specialized formats
+*.md text diff=markdown
