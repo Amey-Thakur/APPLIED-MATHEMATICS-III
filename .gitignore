@@ -1,59 +1,42 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Applied Mathematics III - Academic Repository
+# Specialized .gitignore for scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
 *.code-workspace
 
-# JetBrains
-.idea/
-*.iml
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-venv/
-env/
-.env
-*.egg-info/
-build/
-dist/
-
-# Jupyter Notebooks
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+node_modules/
 .ipynb_checkpoints/
+__pycache__/
 
-# MATLAB
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.asv
 *.mex*
 *.slxc
 
-# LaTeX
+# LaTeX build artifacts
 *.aux
 *.fdb_latexmk
 *.fls
 *.synctex.gz
 *.toc
 *.out
-*.log
-# Keeping .pdf as they are often deliverables in this context,
-# unless they are purely build artifacts which should be ignored.
-# For course repos, PDFs are usually key resources.
-
-# Node/JS (if applicable)
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Git
-*.orig
