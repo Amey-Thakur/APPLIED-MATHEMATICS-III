@@ -1,4 +1,4 @@
-<!-- =========================================================================================
+﻿<!-- =========================================================================================
                                      HEADER SECTION
      ========================================================================================= -->
 <div align="center">
@@ -207,3 +207,5 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
+
+
