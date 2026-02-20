@@ -41,11 +41,11 @@ Applied Mathematics III (CSC301) is a core subject in the Second Year (Semester 
 
 The curriculum encompasses several key mathematical domains:
 
-- **Complex Variables**: Analytic functions, Cauchy-Riemann equations, contour integration, and residue theory
-- **Laplace Transforms**: Transform methods for solving differential equations and system analysis
-- **Fourier Transforms**: Frequency domain analysis and signal processing fundamentals
-- **Z-Transforms**: Discrete-time signal analysis and digital system design
-- **Statistical Methods**: Probability distributions, sampling theory, and hypothesis testing
+- **Complex Variables**: Analytic functions, Cauchy-Riemann equations, contour integration, and residue theory.
+- **Laplace Transforms**: Transform methods for solving differential equations and system analysis.
+- **Fourier Transforms**: Frequency domain analysis and signal processing fundamentals.
+- **Z-Transforms**: Discrete-time signal analysis and digital system design.
+- **Statistical Methods**: Probability distributions, sampling theory, and hypothesis testing.
 
 ### Repository Purpose
 
