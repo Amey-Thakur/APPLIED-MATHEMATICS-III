@@ -55,10 +55,10 @@ As I progress in my career, I recognize that mathematical foundations remain ess
 
 **Why this repository exists:**
 
-- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom
-- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental mathematical concepts
-- **Academic Documentation**: To authentically document my learning journey through Applied Mathematics III
-- **Community Contribution**: To share these resources with students and learners who may benefit from them
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental mathematical concepts.
+- **Academic Documentation**: To authentically document my learning journey through Applied Mathematics III.
+- **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 > [!NOTE]
 > All materials in this repository were created, compiled, and organized by me throughout my undergraduate program (2018-2022) as part of my coursework, laboratory assignments, and project implementations.
