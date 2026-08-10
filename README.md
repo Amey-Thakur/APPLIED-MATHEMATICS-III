@@ -19,7 +19,7 @@
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   <!-- Short Description -->
-  **A comprehensive academic resource for Applied Mathematics III, covering complex variables, transforms, and advanced mathematical methods essential for computer engineering applications.**
+  **Reference books, solved question papers and preparation notes for Applied Mathematics III: complex variables, Laplace, Fourier and Z-transforms, and statistical methods.**
 
   ---
 
@@ -35,11 +35,11 @@
      ========================================================================================= -->
 ## Overview
 
-Applied Mathematics III (CSC301) is a core subject in the Second Year (Semester III) of the Computer Engineering curriculum at the University of Mumbai. This course builds upon foundational mathematical concepts and introduces advanced analytical methods crucial for engineering problem-solving.
+Applied Mathematics III (CSC301) is a core subject in the Second Year (Semester III) of the Computer Engineering curriculum at the University of Mumbai. It extends the mathematics of the first year into the analytical methods the later engineering subjects depend on.
 
 ### Course Topics
 
-The curriculum encompasses several key mathematical domains:
+The syllabus covers five areas:
 
 - **Complex Variables**: Analytic functions, Cauchy-Riemann equations, contour integration, and residue theory.
 - **Laplace Transforms**: Transform methods for solving differential equations and system analysis.
@@ -49,16 +49,14 @@ The curriculum encompasses several key mathematical domains:
 
 ### Repository Purpose
 
-This repository represents a curated collection of study materials, reference books, question papers, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
+The materials here were gathered while taking the subject and are kept so the work remains available: to me when a method needs relearning, and to anyone studying the same syllabus.
 
-As I progress in my career, I recognize that mathematical foundations remain essential for solving complex engineering problems. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
+**Why this repository exists**
 
-**Why this repository exists:**
-
-- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
-- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental mathematical concepts.
-- **Academic Documentation**: To authentically document my learning journey through Applied Mathematics III.
-- **Community Contribution**: To share these resources with students and learners who may benefit from them.
+- **Preservation**: to keep the study material organised and intact beyond the classroom.
+- **Revision**: to make the fundamentals easy to return to years later.
+- **Record**: to document the work done in Applied Mathematics III.
+- **Sharing**: to make the same material available to other students.
 
 > [!NOTE]
 > All materials in this repository were created, compiled, and organized by me throughout my undergraduate program (2018-2022) as part of my coursework, laboratory assignments, and project implementations.
@@ -72,7 +70,7 @@ As I progress in my career, I recognize that mathematical foundations remain ess
 
 ### Reference Books
 
-This collection includes **comprehensive reference materials** covering all major topics:
+Thirteen texts, note sets and solution guides covering the full syllabus:
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
@@ -94,7 +92,7 @@ This collection includes **comprehensive reference materials** covering all majo
 
 ### Personal Preparation
 
-Study materials and planning resources for effective exam preparation:
+Notes and schedules written while preparing for the examination:
 
 | # | Resource | Description |
 |:-:|:---|:---|
@@ -107,7 +105,7 @@ Study materials and planning resources for effective exam preparation:
 
 ## Question Papers
 
-University of Mumbai examination papers from **2017-2019** with complete solutions:
+University of Mumbai papers, 2017 to 2019, each with its solution:
 
 | # | Exam Session | Question Paper | Solutions |
 |:-:|:---|:-:|:-:|
@@ -136,16 +134,11 @@ University of Mumbai examination papers from **2017-2019** with complete solutio
      ========================================================================================= -->
 ## Usage Guidelines
 
-This repository is openly shared to support learning and knowledge exchange across the academic community.
+The repository is public so others on the same syllabus can use it.
 
-**For Students**  
-Use these resources as reference materials for understanding concepts, reviewing problem-solving techniques, and preparing for examinations. All content is organized for self-paced learning.
+**Students** may read the notes, work through the solved papers and use the formula sheet while preparing.
 
-**For Educators**  
-These materials may serve as curriculum references, assignment examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
-
-**For Researchers**  
-The documentation and organization may provide insights into academic resource curation and educational content structuring.
+**Educators** may reuse any of it as reference or teaching material. Attribution is appreciated.
 
 ---
 
@@ -171,17 +164,17 @@ This repository and all linked academic content are made available under the **C
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, question papers, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Applied Mathematics III.
+Applied Mathematics III was taken in the third semester, in the winter of 2019. The reference books, solved papers and preparation notes in this repository are the ones actually used for it.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
-Grateful acknowledgment to **[Dr. Subir Rao](https://www.linkedin.com/in/dr-subir-r-7ba04610/)** for his exceptional teaching in Applied Mathematics, which played an important role in shaping my understanding of the subject. His clear and disciplined approach, along with his careful explanation of complex ideas, made the subject both accessible and engaging. The emphasis he placed on logical reasoning and problem-solving continues to influence my analytical thinking, and his dedication to teaching has had a lasting impact on my academic growth.
+Grateful acknowledgment to **[Dr. Subir Rao](https://www.linkedin.com/in/dr-subir-r-7ba04610/)**, whose teaching shaped how I read this subject. He explained the difficult parts slowly and insisted on the reasoning behind each step, which is the habit I kept.
 
-Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Applied Mathematics III. Their clear teaching and continued support helped me develop a strong understanding of foundational mathematical concepts and advanced analytical methods.
+Grateful acknowledgment to the faculty of the Department of Computer Engineering at Terna Engineering College for their instruction in Applied Mathematics III.
 
-Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
+Thanks also to the mentors and peers whose discussions and encouragement made the work easier.
 
 ---
 
