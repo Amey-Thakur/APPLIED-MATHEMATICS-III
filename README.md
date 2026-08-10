@@ -19,7 +19,7 @@
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   <!-- Short Description -->
-  **A complete academic archive for Applied Mathematics III, covering complex variables, transforms, and advanced mathematical methods essential for computer engineering applications.**
+  **A comprehensive academic resource for Applied Mathematics III, covering complex variables, transforms, and advanced mathematical methods essential for computer engineering applications.**
 
   ---
 
@@ -35,11 +35,11 @@
      ========================================================================================= -->
 ## Overview
 
-Applied Mathematics III (CSC301) is a core subject in the Second Year (Semester III) of the Computer Engineering curriculum at the University of Mumbai. This course builds upon foundational mathematical concepts and introduces advanced analytical methods essential to engineering problem-solving.
+Applied Mathematics III (CSC301) is a core subject in the Second Year (Semester III) of the Computer Engineering curriculum at the University of Mumbai. This course builds upon foundational mathematical concepts and introduces advanced analytical methods crucial for engineering problem-solving.
 
 ### Course Topics
 
-The curriculum comprises several key mathematical domains:
+The curriculum encompasses several key mathematical domains:
 
 - **Complex Variables**: Analytic functions, Cauchy-Riemann equations, contour integration, and residue theory.
 - **Laplace Transforms**: Transform methods for solving differential equations and system analysis.
@@ -49,13 +49,13 @@ The curriculum comprises several key mathematical domains:
 
 ### Repository Purpose
 
-This repository is a curated collection of study materials, reference books, question papers, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is straightforward: **to preserve knowledge for continuous learning and future reference**.
+This repository represents a curated collection of study materials, reference books, question papers, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
 
-As I progress in my career, I recognize that mathematical foundations remain essential for solving complex engineering problems. This repository remains my principal reference: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
+As I progress in my career, I recognize that mathematical foundations remain essential for solving complex engineering problems. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
 
 **Why this repository exists:**
 
-- **Knowledge Preservation**: To maintain organized access to complete study materials beyond the classroom.
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental mathematical concepts.
 - **Academic Documentation**: To authentically document my learning journey through Applied Mathematics III.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
@@ -72,7 +72,7 @@ As I progress in my career, I recognize that mathematical foundations remain ess
 
 ### Reference Books
 
-This collection includes **authoritative reference materials** covering all major topics:
+This collection includes **comprehensive reference materials** covering all major topics:
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
@@ -83,7 +83,7 @@ This collection includes **authoritative reference materials** covering all majo
 | 5 | [Fourier Transform Notes - Part 2](Reference%20Books/Fourier%20Transform%20Notes%20-%202.pdf) | Advanced frequency domain analysis |
 | 6 | [Laplace Transform](Reference%20Books/Laplace%20Transform.pdf) | Differential equations and system analysis |
 | 7 | [Z-Transform](Reference%20Books/Z-Transform.pdf) | Discrete-time systems |
-| 8 | [Maths 3 - Huge Notes](Reference%20Books/Maths%203%20-%20Huge%20Notes.pdf) | Full topic coverage |
+| 8 | [Maths 3 - Huge Notes](Reference%20Books/Maths%203%20-%20Huge%20Notes.pdf) | Comprehensive topic coverage |
 | 9 | [Maths-III Dr. Subir Rao (Kalpana Coaching Classes)](Reference%20Books/Maths-III%20Dr.%20Subir%20Rao%20-%20Kalpana%20Coaching%20Classes.pdf) | Complete lecture notes |
 | 10 | [AM-III Easy Solutions](Reference%20Books/AM-III%20Easy%20Solutions.pdf) | Solved problems and examples |
 | 11 | [Applied Mathematics - III Formula Sheet](Reference%20Books/Applied%20Mathematics%20-%20III%20Formula%20Sheet.pdf) | Quick reference for examinations |
@@ -142,7 +142,7 @@ This repository is openly shared to support learning and knowledge exchange acro
 Use these resources as reference materials for understanding concepts, reviewing problem-solving techniques, and preparing for examinations. All content is organized for self-paced learning.
 
 **For Educators**  
-These materials may serve as curriculum references, assignment examples, or supplementary teaching resources. Attribution is appreciated when using content.
+These materials may serve as curriculum references, assignment examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
 
 **For Researchers**  
 The documentation and organization may provide insights into academic resource curation and educational content structuring.
@@ -171,7 +171,7 @@ This repository and all linked academic content are made available under the **C
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This repository is a complete collection of study materials, reference books, question papers, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to remain a dependable reference for students pursuing Applied Mathematics III.
+This repository represents a comprehensive collection of study materials, reference books, question papers, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Applied Mathematics III.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
