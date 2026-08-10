@@ -140,6 +140,8 @@ The repository is public so others on the same syllabus can use it.
 
 **Educators** may reuse any of it as reference or teaching material. Attribution is appreciated.
 
+**Researchers** may treat this as a primary record of the Mumbai University CBCGS syllabus as it was taught between 2018 and 2022. Citation metadata is included in [CITATION.cff](CITATION.cff).
+
 ---
 
 <!-- =========================================================================================
