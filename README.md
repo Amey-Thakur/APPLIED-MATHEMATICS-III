@@ -53,10 +53,10 @@ The materials here were gathered while taking the subject and are kept so the wo
 
 **Why this repository exists**
 
-- **Preservation**: to keep the study material organised and intact beyond the classroom.
-- **Revision**: to make the fundamentals easy to return to years later.
-- **Record**: to document the work done in Applied Mathematics III.
-- **Sharing**: to make the same material available to other students.
+- **Knowledge Preservation**: to keep the study material organised and intact beyond the classroom, in one place that does not depend on a course portal remaining online.
+- **Continuous Learning**: to make the fundamentals easy to return to when a method has to be relearned years after the examination.
+- **Academic Documentation**: to record the work done in Applied Mathematics III during the Bachelor of Engineering programme, 2018 to 2022.
+- **Community Contribution**: to make the same material available to students reading this syllabus and to anyone teaching it.
 
 > [!NOTE]
 > All materials in this repository were created, compiled, and organized by me throughout my undergraduate program (2018-2022) as part of my coursework, laboratory assignments, and project implementations.
