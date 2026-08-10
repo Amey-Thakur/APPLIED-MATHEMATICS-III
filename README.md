@@ -176,7 +176,7 @@ Grateful acknowledgment to **[Dr. Subir Rao](https://www.linkedin.com/in/dr-subi
 
 Grateful acknowledgment to the faculty of the Department of Computer Engineering at Terna Engineering College for their instruction in Applied Mathematics III.
 
-Thanks also to the mentors and peers whose discussions and encouragement made the work easier.
+Special thanks to the mentors and peers whose discussions and encouragement made the work easier.
 
 ---
 
