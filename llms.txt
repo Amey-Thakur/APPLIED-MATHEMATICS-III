@@ -1,0 +1,36 @@
+# Applied Mathematics III
+
+> CSC301, a core subject of Semester III in the B.E. Computer Engineering
+> curriculum at the University of Mumbai, studied at Terna Engineering College.
+> This repository holds the reference books, university question papers, solved
+> papers, personal preparation notes and the syllabus kept from that course.
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Second Year, Semester III
+Course code: CSC301
+Licence: CC BY 4.0, attribution required
+First released: 17 January 2020
+
+## What is in this repository
+
+- Reference Books, 13 files covering the five topic areas
+- Question Papers, 8 files, split into previous papers and solved papers
+- My Preparation, 5 files of personal notes
+- SE-Comps_CBCGS_Syllabus.pdf, the University of Mumbai CBCGS syllabus
+- Blueprint (AM-III).png, the paper pattern and marks distribution
+
+## What the course covers
+
+Complex variables, including analytic functions, the Cauchy-Riemann equations,
+contour integration and residue theory. Laplace transforms. Fourier transforms.
+Z-transforms. Statistical methods, including probability distributions,
+sampling theory and hypothesis testing.
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III
+- Degree index, every B.E. subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
