@@ -1,4 +1,4 @@
-# Applied Mathematics Iii
+# Applied Mathematics III
 
 > CSC301: Applied Mathematics III [AM-III] | SE Semester III | Computer
 > Engineering
